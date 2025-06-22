@@ -22,4 +22,4 @@ Bu proje, Python'un tkinter kütüphanesini kullanarak geliştirilmiş ,  grafik
 
 # Geliştirici Notları :
 
-Bu proje eğitim amaçlı hazırlanmıştır. Yeni başlayanlar için try-except, tkinter arayğz tasarımı ve fonksiyonel programlama yapısının temel bir uygulamasıdır.
+Bu proje eğitim amaçlı hazırlanmıştır. Yeni başlayanlar için try-except, tkinter arayüz tasarımı ve fonksiyonel programlama yapısının temel bir uygulamasıdır.
